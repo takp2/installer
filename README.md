@@ -1,2 +1,2 @@
-# installer
-Intalls takp2 to your device
+# bootstrap
+Bootstrap initializes takp2, validating and checks for updates
